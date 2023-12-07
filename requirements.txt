@@ -1,0 +1,5 @@
+tensorflow == 2.10.0
+streamlit == 1.22.0
+cv2
+PIL
+os
